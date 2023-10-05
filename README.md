@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/forks/XenixYT/DiscordBackup?style=flat">
     <img src="https://sonarcloud.io/api/project_badges/measure?project=itschasa_Discord-Backup&metric=ncloc"/>
     <br>
-    <img src="https://github.com/ItsChasa/Discord-Backup/blob/main/img/backup-demo.gif">
+    <img src="[https://github.com/ItsChasa/Discord-Backup/blob/main/img/backup-demo.gif](https://cdn.discordapp.com/attachments/1132407800551710952/1159316457449082920/gif">
     <br>
     <p><i>⭐ star the repo pls <3</i></p>
 </div>
