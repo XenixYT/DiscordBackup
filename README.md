@@ -1,10 +1,10 @@
 <div align="center">
     <h1>Discord Backup</h1>
     <p>☁️ Backup and Restore your Discord Account in minutes.</p>
-    <img src="https://img.shields.io/github/license/XenixYT/Discord.Backup?style=flat">
-    <img src="https://img.shields.io/github/downloads/XenixYT/Discord.Backup/total?style=flat">
-    <img src="https://img.shields.io/github/stars/XenixYT/Discord.Backup?style=flat">
-    <img src="https://img.shields.io/github/forks/XenixYT/Discord.Backup?style=flat">
+    <img src="https://img.shields.io/github/license/XenixYT/DiscordBackup?style=flat">
+    <img src="https://img.shields.io/github/downloads/XenixYT/DiscordBackup/total?style=flat">
+    <img src="https://img.shields.io/github/stars/XenixYT/DiscordBackup?style=flat">
+    <img src="https://img.shields.io/github/forks/XenixYT/DiscordBackup?style=flat">
     <img src="https://sonarcloud.io/api/project_badges/measure?project=itschasa_Discord-Backup&metric=ncloc"/>
     <br>
     <img src="https://github.com/ItsChasa/Discord-Backup/blob/main/img/backup-demo.gif">
